@@ -1,4 +1,4 @@
-package com.samples.ocjp8.part1.OCJPSamples.com.samples.ocjp8.part1.one;
+package com.samples.ocjp8.part1.one;
 import java.util.List;
 import java.util.ArrayList;
 
