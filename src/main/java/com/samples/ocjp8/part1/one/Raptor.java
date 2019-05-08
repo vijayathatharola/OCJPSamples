@@ -1,6 +1,6 @@
 package com.samples.ocjp8.part1.one;
 
-public class Raptor extends Bird {
+ public class Raptor extends Bird{
         static{
             System.out.println("r1");
 
